@@ -4,7 +4,7 @@
             "distributions": [
                 "win32"
             ],
-            "sha384": "0f43d86d566e703aacf58d875d11c7d2138c884c22a063291418f460b2c4deebfcfb2b8e625ed60cf15136a85d58d89c",
+            "sha384": "a782471e714e5de76108c62516354e754da16dcee264caff11aee0d72ae627ef0f1b5b4e84df53ed5c0e1f7943b265d6",
             "size": 37956787
         },
         "OpenAL32.dll": {
@@ -32,8 +32,8 @@
             "distributions": [
                 "win32"
             ],
-            "sha384": "511f95af0a58681e3e4a8afc9fae68edc4e248bc825d2284bc16ed208ece1307dc2a07040cf5f9cc19121b16e2d4c7d6",
-            "size": 33716736
+            "sha384": "8d5376cc618b678d127b0656bde65aed615684f9037b654e0547cb2a56808856ab91d66832de3afa45c5f5e782a1812d",
+            "size": 34634752
         }
     },
     "launcherVersions": {
