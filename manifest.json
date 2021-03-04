@@ -1,11 +1,11 @@
 {
     "files": {
-        "ODSData.bin": {
+        "ods.dll": {
             "distributions": [
                 "win32"
             ],
-            "sha384": "65e7737754b747d5f0bde450287b78bb5f61eaebeb54929f4bf598fec5428a855a23282280e3f371e657d70a878e5f33",
-            "size": 37956019
+            "sha384": "383751c74e1cac4ae6ccb1bb23dccd12e724132216483160db1bb6de3c802096eb005b550a20ae6b7c925d76e84de3c0",
+            "size": 37956115
         },
         "OpenAL32.dll": {
             "distributions": [
@@ -32,8 +32,8 @@
             "distributions": [
                 "win32"
             ],
-            "sha384": "e9b3807c96274a598e89604152d418784be3a051e3e36798f47c2575b81fb6159b457a467482e16212bdb74ca48df188",
-            "size": 16579088
+            "sha384": "76dfb7244e93a341836e7376cdf196d86407bda451c5707e66e5ff731b002f68cbc347bf534087669b66838b76bc5b21",
+            "size": 11033600
         }
     },
     "launcherVersions": {
