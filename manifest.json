@@ -4,8 +4,8 @@
             "distributions": [
                 "win32"
             ],
-            "sha384": "383751c74e1cac4ae6ccb1bb23dccd12e724132216483160db1bb6de3c802096eb005b550a20ae6b7c925d76e84de3c0",
-            "size": 37956115
+            "sha384": "259008d5cc50484cc151d70ef6bc25d74eb2ff4ad21b08f454cc6a1fa76a90764b039143c4b5de633fbed0488370aec5",
+            "size": 37956147
         },
         "OpenAL32.dll": {
             "distributions": [
