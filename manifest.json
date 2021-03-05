@@ -1,11 +1,8 @@
 {
     "files": {
         "ods.dll": {
-            "distributions": [
-                "win32"
-            ],
-            "sha384": "408257bdd7c7ee4077058b4892e7bbd428707670f48f21155a546cf005d2d8504bea3b3d50c46a6dabb0237c7e0bb0f4",
-            "size": 37956099
+            "sha384": "bb013962bbf955017119d25b54953ad83f5fd3611836c7e57e9f61fe787ace0ffe83e951f25e70f7d2965f9c8288d1db",
+            "size": 38062051
         },
         "OpenAL32.dll": {
             "distributions": [
@@ -34,6 +31,13 @@
             ],
             "sha384": "76dfb7244e93a341836e7376cdf196d86407bda451c5707e66e5ff731b002f68cbc347bf534087669b66838b76bc5b21",
             "size": 11033600
+        },
+        "ods_linux": {
+            "distributions": [
+                "linux"
+            ],
+            "sha384": "2bf97b9ca49af2cb480f162134b0f924588c293a803f2872e5dd383cc6789162d84735fcbc424493a34a6a409fe6c01d",
+            "size": 12101044
         }
     },
     "launcherVersions": {
