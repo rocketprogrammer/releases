@@ -58,8 +58,8 @@
             "vcruntime140.dll",
             "msvcp140.dll"
         ],
-        "link": "https://aka.ms/vs/15/release/vc_redist.x86.exe",
+        "link": "https://aka.ms/vs/16/release/vc_redist.x64.exe",
         "promptInstall": true,
-        "version": "2017"
+        "version": "2019"
     }
 }
