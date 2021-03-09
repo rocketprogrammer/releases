@@ -1,9 +1,5 @@
 {
     "files": {
-        "ods.dll": {
-            "sha384": "bb013962bbf955017119d25b54953ad83f5fd3611836c7e57e9f61fe787ace0ffe83e951f25e70f7d2965f9c8288d1db",
-            "size": 38062051
-        },
         "OpenAL32.dll": {
             "distributions": [
                 "win32"
@@ -24,6 +20,10 @@
             ],
             "sha384": "c624df89124cacad881e0296518d8090474db43b31e5eb610233a74488348089be08b7513566e4ad5f7b4bf29a8c7fd6",
             "size": 439104
+        },
+        "ods.dll": {
+            "sha384": "29207a66499c242ea15a1fef795692dbd444026fcc6838af6193dd1a709510ed9bb4d78538917f7f49acf014acedb6f0",
+            "size": 38068259
         },
         "ods.exe": {
             "distributions": [
@@ -58,7 +58,7 @@
             "vcruntime140.dll",
             "msvcp140.dll"
         ],
-        "link": "https://aka.ms/vs/16/release/vc_redist.x64.exe",
+        "link": "https://aka.ms/vs/17/release/vc_redist.x64.exe",
         "promptInstall": true,
         "version": "2019"
     }
