@@ -1,2 +1,2 @@
 # releases
-Releases for a custom decompilation of a Toontown private server.
+Releases for a custom decompilation of a private server.
