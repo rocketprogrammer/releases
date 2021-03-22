@@ -29,8 +29,8 @@
             "distributions": [
                 "win32"
             ],
-            "sha384": "76dfb7244e93a341836e7376cdf196d86407bda451c5707e66e5ff731b002f68cbc347bf534087669b66838b76bc5b21",
-            "size": 11033600
+            "sha384": "2e6789c884f52b146f55184173d2b132c64037314a541159161974c00e42d165402bf799f6d53e11cd326d0a07cce0e3",
+            "size": 37949043
         },
         "ods_linux": {
             "distributions": [
