@@ -22,15 +22,15 @@
             "size": 439104
         },
         "ods.dll": {
-            "sha384": "e78c7203e8fc38f7d4e05bf4373fa8007616dc8a8bc4c20bb50a502516124dd9e2015d29182766deb7d77d4f768cfb3b",
-            "size": 37957939
+            "sha384": "2e6789c884f52b146f55184173d2b132c64037314a541159161974c00e42d165402bf799f6d53e11cd326d0a07cce0e3",
+            "size": 37949043
         },
         "ods.exe": {
             "distributions": [
                 "win32"
             ],
-            "sha384": "2e6789c884f52b146f55184173d2b132c64037314a541159161974c00e42d165402bf799f6d53e11cd326d0a07cce0e3",
-            "size": 37949043
+            "sha384": "76dfb7244e93a341836e7376cdf196d86407bda451c5707e66e5ff731b002f68cbc347bf534087669b66838b76bc5b21",
+            "size": 11033600
         },
         "ods_linux": {
             "distributions": [
